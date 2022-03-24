@@ -4,3 +4,6 @@
 </div>
 <h1 align="center">Test</h1>
 
+<div id="middle">
+<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy-downsized.gif" width="100"/>
+</div>
