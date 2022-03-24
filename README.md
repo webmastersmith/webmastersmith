@@ -8,13 +8,18 @@
 <div id="laughs">
 <h1>Just for laughs!</h1>
 
-<div id="catHorse">
-<p>This is me coding.</p>
+<div id="me">
+<span>
+<p>This is me, coding.</p>
 <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy-downsized.gif" width="150"/>
-</div>
-<div id="babySpinning">
-<p>This is me reality.</p>
+</span>
+<span>
+<p>This is me, reality.</p>
 <img src="https://media.giphy.com/media/110F1JFzWKtiA8/giphy.gif" width="150"/>
+</span>
+</div>
+
+<div id="babySpinning">
 </div>
 
 </div>
