@@ -10,11 +10,11 @@
 
 <div id="me">
 <span>
-<p>This is me, coding.</p>
+This is me, coding.
 <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy-downsized.gif" width="150"/>
 </span>
 <span>
-<p>This is me, reality.</p>
+This is me, reality.
 <img src="https://media.giphy.com/media/110F1JFzWKtiA8/giphy.gif" width="150"/>
 </span>
 </div>
