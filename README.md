@@ -9,17 +9,21 @@
 <h1>Just for laughs!</h1>
 
 <div id="me">
-<span>
+<div style="">
 This is me, coding.
+</div>
 <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy-downsized.gif" width="150"/>
-</span>
-<span>
+
+<div>
 This is me, reality.
+</div>
 <img src="https://media.giphy.com/media/110F1JFzWKtiA8/giphy.gif" width="150"/>
-</span>
 </div>
 
 <div id="babySpinning">
 </div>
 
+<div>
+Code I'm most proud of: " "
+</div>
 </div>
