@@ -1,8 +1,8 @@
 # Hi there. I'm **Bryon Smith**. Thanks for stopping by.
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <img src="images/me.gif" width="100"/>
-</div>
+</div> -->
 
 ```javascript
 const bryon = {
