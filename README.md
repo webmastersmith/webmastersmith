@@ -1,4 +1,4 @@
-Hi there. I'm **Bryon Smith**. Thanks for stopping by.
+## Hi there. I'm **Bryon Smith**. Thanks for stopping by.
 
 <!-- <div id="header" align="center">
 <img src="images/me.gif" width="100"/>
