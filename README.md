@@ -27,8 +27,8 @@ const bryon = {
 </a>
 
 <!-- laughs -->
-<div id="laughs">
-<h1>Just for laughs!</h1>
+<!-- <div id="laughs">
+<h1>Just for laughs!</h1> -->
 
 <!-- <div id="me">
 
