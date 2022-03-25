@@ -1,4 +1,4 @@
-# Hi there. I'm **Bryon Smith**. Thanks for stopping by.
+Hi there. I'm **Bryon Smith**. Thanks for stopping by.
 
 <!-- <div id="header" align="center">
 <img src="images/me.gif" width="100"/>
@@ -10,7 +10,7 @@ const bryon = {
   askMeAbout: ['web dev', 'tech', 'automotive'],
   technologies: {
     frontEnd: {
-      js: ['vanilla', 'react', 'typescript'],
+      js: ['vanilla', 'react', 'typescript', 'nextjs'],
       css: ['vanilla', 'modules', 'sass', 'tailwindcss', 'bootstrap'],
     },
     backEnd: 'nodejs',
