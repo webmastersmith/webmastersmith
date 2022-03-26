@@ -32,6 +32,8 @@ this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit
 
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/webmastersmith/webmastersmith">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmastersmith&hide=css,java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=blueberry" alt="most used languages"/>
 </a>
