@@ -1,6 +1,4 @@
-# Hello friends. <img src="images/wave.gif" width="30">
-
-# I'm **Bryon Smith**. Thanks for stopping by. &#x1F604;
+# Hello friends. <img src="images/wave.gif" width="30"> I'm **Bryon Smith**. Thanks for stopping by. &#x1F604;
 
 <!-- <div id="header" align="center">
 <img src="images/me.gif" width="100"/>
