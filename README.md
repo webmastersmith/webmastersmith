@@ -19,14 +19,9 @@ const bryon = {
 }
 ```
 
-<style>
-td, tr {
-   border: none!important;
-}
-</style>
 <table>
 <tr>
-<td> 
+<td>
 this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias!
 </td>
 <td> 
