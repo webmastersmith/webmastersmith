@@ -23,10 +23,10 @@ const bryon = {
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 
 <a href="https://github.com/webmastersmith/webmastersmith">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmastersmith&hide=css,java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=radical" alt="most used languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmastersmith&hide=css,java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=blueberry" alt="most used languages"/>
 </a>
 <a href="https://github.com/webmastersmith/webmastersmith">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webmastersmith&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical" alt="bryon's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webmastersmith&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bryon's GitHub Stats" />
 </a>
 
 #
