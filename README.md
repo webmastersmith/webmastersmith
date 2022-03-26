@@ -20,7 +20,7 @@ const bryon = {
 ```
 
 <img src="images/octocat-flip.gif" alt="bryon's octocat-flip" width="100" align="right">
-this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias!
+this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores ducimus ipsa voluptas maxime vitae tempore, quis qui sequi obcaecati illo fugiat, accusamus voluptates amet debitis unde porro alias odit facere?
 
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 <p> </p>
