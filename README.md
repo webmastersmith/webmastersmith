@@ -1,4 +1,6 @@
-## Hi there. I'm **Bryon Smith**. Thanks for stopping by. &#x1F604
+# Hello friends. <img src="images/wave.gif" width="30">
+
+# I'm **Bryon Smith**. Thanks for stopping by. &#x1F604;
 
 <!-- <div id="header" align="center">
 <img src="images/me.gif" width="100"/>
@@ -19,12 +21,20 @@ const bryon = {
 }
 ```
 
+<img src="images/octocat.gif" alt="bryon's octocat" width="200">
+Hello all.
+<img src="images/octocat-flip.gif" alt="bryon's octocat" width="200">
+
 <a href="https://github.com/webmastersmith/webmastersmith">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmastersmith&hide=css,java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="most used languages"/>
 </a>
 <a href="https://github.com/webmastersmith/webmastersmith">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=webmastersmith&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="bryon's GitHub Stats" />
 </a>
+
+#
+
+![](https://komarev.com/ghpvc/?username=webmastersmith&color=0ca4a5)
 
 <!-- laughs -->
 <!-- <div id="laughs">
