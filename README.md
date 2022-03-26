@@ -13,13 +13,35 @@ const bryon = {
       js: ['vanilla', 'react', 'typescript', 'nextjs'],
       css: ['vanilla', 'modules', 'sass', 'tailwindcss', 'bootstrap'],
     },
-    backEnd: 'nodejs',
-    databases: 'mongodb',
+    backEnd: [
+      'nodejs',
+      'apache',
+      'debian',
+      'postfix',
+      'dovecot',
+      'modsecurity',
+      'iptables',
+    ],
+    databases: ['mongodb', 'mysql'],
   },
 }
 ```
 
-<img src="images/octocat-flip.gif" alt="bryon's octocat-flip" width="100" align="right">
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+<img src="images/octocat-flip.gif" alt="bryon's octocat" width="100" align="right">
 this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores ducimus ipsa voluptas maxime vitae tempore, quis qui sequi obcaecati illo fugiat, accusamus voluptates amet debitis unde porro alias odit facere?
 
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
