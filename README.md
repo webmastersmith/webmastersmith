@@ -22,7 +22,7 @@ const bryon = {
 ```
 
 <img src="images/octocat.gif" alt="bryon's octocat" width="200" align="center">
-<img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center">
+<!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 
 <a href="https://github.com/webmastersmith/webmastersmith">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webmastersmith&hide=css,java,html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="most used languages"/>
