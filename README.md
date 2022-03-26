@@ -19,10 +19,16 @@ const bryon = {
 }
 ```
 
-<div>
+<table>
+<tr>
+<td> 
 this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias!
+</td>
+<td> 
 <img src="images/octocat-flip.gif" alt="bryon's octocat-flip" width="200" align="center">
-</div>
+</td>
+</tr>
+</table>
 
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 
