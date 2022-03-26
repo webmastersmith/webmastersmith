@@ -22,7 +22,6 @@ const bryon = {
 ```
 
 <img src="images/octocat.gif" alt="bryon's octocat" width="200">
-Hello all.
 <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200">
 
 <a href="https://github.com/webmastersmith/webmastersmith">
