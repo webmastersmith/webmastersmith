@@ -41,6 +41,8 @@ const bryon = {
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+#
+
 <img src="images/octocat-flip.gif" alt="bryon's octocat" width="100" align="right">
 this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores ducimus ipsa voluptas maxime vitae tempore, quis qui sequi obcaecati illo fugiat, accusamus voluptates amet debitis unde porro alias odit facere?
 
