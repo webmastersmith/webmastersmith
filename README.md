@@ -19,7 +19,7 @@ const bryon = {
 }
 ```
 
-<img src="images/octocat.gif" alt="bryon's octocat" width="200" align="center">
+<!-- <img src="images/octocat.gif" alt="bryon's octocat" width="200" align="center"> -->
 <!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 
 <a href="https://github.com/webmastersmith/webmastersmith">
