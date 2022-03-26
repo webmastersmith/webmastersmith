@@ -19,6 +19,11 @@ const bryon = {
 }
 ```
 
+<style>
+td, tr {
+   border: none!important;
+}
+</style>
 <table>
 <tr>
 <td> 
