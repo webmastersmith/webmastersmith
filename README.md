@@ -33,7 +33,11 @@ const bryon = {
 
 #
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=webmastersmith&color=0ca4a5)
+
+</div>
 
 <!-- laughs -->
 <!-- <div id="laughs">
