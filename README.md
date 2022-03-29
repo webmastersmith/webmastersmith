@@ -6,7 +6,6 @@
 
 ```javascript
 const bryon = {
-  pronouns: 'He' | 'Him',
   askMeAbout: ['web dev', 'tech', 'automotive'],
   technologies: {
     frontEnd: {
@@ -22,8 +21,9 @@ const bryon = {
       'modsecurity',
       'iptables',
     ],
-    databases: ['mongodb', 'mysql', 'firebase'],
-    auth: ['firebase', 'auth0'],
+    databases: ['mongodb', 'mysql', 'firestore'],
+    auth: ['firebase', 'nextauth'],
+    webscraper: 'puppeteer',
   },
 }
 ```
@@ -36,6 +36,7 @@ const bryon = {
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WebScraper-Puppeteer-informational?style=flat&logo=Puppeteer&logoColor=white&color=2bbc8a)
 
 <!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
