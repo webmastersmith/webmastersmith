@@ -11,6 +11,8 @@ const bryon = {
     frontEnd: {
       js: ['vanilla', 'react', 'typescript', 'nextjs'],
       css: ['vanilla', 'modules', 'sass', 'tailwindcss', 'bootstrap'],
+      html: 'HTML5',
+      animation: ['vanilla', 'framer', 'react-spring'],
     },
     backEnd: [
       'nodejs',
@@ -48,7 +50,7 @@ const bryon = {
 ![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)...
 
 <!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
