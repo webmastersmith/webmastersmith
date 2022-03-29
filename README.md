@@ -1,9 +1,5 @@
 # Hello friends. <img src="images/wave.gif" width="30"> I'm **Bryon Smith**. Thanks for stopping by. &#x1F604;
 
-<!-- <div id="header" align="center">
-<img src="images/me.gif" width="100"/>
-</div> -->
-
 ```javascript
 const bryon = {
   askMeAbout: ['web dev', 'tech', 'automotive'],
@@ -50,24 +46,13 @@ const bryon = {
 ![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)...
-
-<!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=2bbc8a)
 
 #
 
 <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="right">
-this is som text for me. I would like to thank my friends Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi tenetur provident doloribus! Beatae itaque ad commodi autem ea voluptatibus aspernatur corrupti nostrum eos quidem, quo modi unde ipsam totam molestias! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores ducimus ipsa voluptas maxime vitae tempore, quis qui sequi obcaecati illo fugiat, accusamus voluptates amet debitis unde porro alias odit facere?
+I have been a ASE Master Mechanic, Air Condition Tech, Electrician, Airframe/Powerplant Aircraft Mechanic, now a full stack programmer.
 
-<!-- <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="center"> -->
 <p> </p>
 
 ## &#x1f4c8; GitHub Stats
