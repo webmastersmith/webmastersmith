@@ -51,7 +51,7 @@ const bryon = {
 #
 
 <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="right">
-I have been an ASE Master Mechanic, Air Condition Tech, Electrician, Airframe/Powerplant Aircraft Mechanic, and now I'm a full stack engineer. I'm passionate about all things programming, helping others, and building community.
+I have been an ASE Master Mechanic, Air Conditioning Tech, Electrician, Airframe/Powerplant Aircraft Mechanic, and now I'm a full stack engineer. I'm passionate about all things programming, love learning, helping others, and building a rich community.
 
 <p> </p>
 
