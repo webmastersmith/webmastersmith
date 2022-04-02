@@ -32,7 +32,6 @@ const bryon = {
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
