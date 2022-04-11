@@ -50,7 +50,7 @@ const bryon = {
 #
 
 <img src="images/octocat-flip.gif" alt="bryon's octocat" width="200" align="right">
-I have owned and managed a successful mechanic shop. I have licenses as a ASE Master Mechanic/L1 Advanced Engine Performance, Air Conditioning Tech, Electrician, Airframe/Powerplant Aircraft Mechanic, and now I'm an aspiring full stack engineer. I'm passionate about all things programming, love learning, helping others, and building a rich community.
+I have owned and managed a successful mechanic shop. I have licenses as a ASE Master Technician/L1 Advanced Engine Performance, air conditioning tech, electrician, A/P aircraft mechanic, and now I'm an aspiring full stack engineer. I'm passionate about all things programming, love learning, helping others, and building a rich community.
 
 <p> </p>
 
